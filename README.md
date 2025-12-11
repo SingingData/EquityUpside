@@ -12,6 +12,8 @@ When running the query-perplexity-llm-stock-analysis.ipynb notebook with an arbi
 
 This notebook uses Perplexity AI's Sonar Pro model via API. Each report is saved as a formatted Microsoft Word document.6. 
 
+Refer to the 'GettingStarted' document in this repo for additional instructions
+
 #### **Features**
 - Batch Processing: Processes multiple stocks, ETF's and mutual funds from a simple text file list of tickers. 
 - Smart Skipping: Avoids duplicate API calls by checking for existing reports2. 5-year price performance vs. NASDAQ
