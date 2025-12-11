@@ -22,6 +22,7 @@ git clone https://github.com/SingingData/EquityUpside
 
 Step 4:
 Install a developer tool.  I suggest VS code for it's native support of jupyter notebooks (the .ipynb files)
+Here is install link.  https://code.visualstudio.com/download
 You'll run the notebook from this tool
 
 Step 5:
