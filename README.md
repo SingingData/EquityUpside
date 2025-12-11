@@ -32,3 +32,6 @@ Refer to the 'GettingStarted' document in this repo for additional instructions
 #### **Output**
 - Analysis word document for each equity
 
+#### **Repository**
+Feel free to clone, contribute to or fork the repository which has MIT license.
+
