@@ -10,7 +10,7 @@ Step 1:
 Get a perplexity API key here https://www.perplexity.ai/help-center/en/articles/10352995-api-settings
 
 Step 2:
-If you don't already have python on your local machine, install it here at or near your root level.  users/yourname is a good spot.
+If you don't already have python on your local machine, install it from this link at or near your root level.  (c:/users/yourname is a good spot.)
 Here is the install link:  https://www.anaconda.com/docs/getting-started/miniconda/install
 
 Step 3:  
