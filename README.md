@@ -39,3 +39,5 @@ Feel free to clone, contribute to or fork the repository which has MIT license.
 
 This is a simple tool that allows me to be more informed and less capricious when I make investment decisions. Not investment advice.  
 
+Read the GettingStarted.txt for more detailed instructions on set-up in your local environment.
+
