@@ -6,7 +6,7 @@
 #### **Overview**
 When running the query-perplexity-llm-stock-analysis.ipynb notebook with an arbitrary txt list of equities, this automatically generates:
 
-- Individual stock analysis reports with key financial and growth highlights followed by BuccoCapital 13 point analysis framework
+- Individual stock reports with key financial and growth metrics followed by BuccoCapital analysis with 13 point analysis framework
 - ETF and Mutual Fund analysis with key financial and growth highlights, composition, fees, liquidity, etc in the style of Brian Belsky 
 - Analyst ratings and price targets (when available)
 
