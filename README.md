@@ -6,9 +6,10 @@
 #### **Overview**
 When running the query-perplexity-llm-stock-analysis.ipynb notebook with an arbitrary txt list of equities, this automatically generates:
 
-- Individual stock reports with key financial and growth metrics followed by BuccoCapital analysis with 13 point analysis framework
+- Individual stock reports with key financial and growth metrics followed by BuccoCapital analysis with 13 point analysis framework.
 - ETF and Mutual Fund analysis with key financial and growth highlights, composition, fees, liquidity, etc in the style of Brian Belsky 
-- Analyst ratings and price targets (when available)
+- Analyst ratings and price targets (when available).
+- All reports leverage the latest SEC filings for that individual stock as well as named reliable sources.
 
 This notebook uses Perplexity AI's Sonar Pro model via API. Each report is saved as a formatted Microsoft Word document.6. 
 
