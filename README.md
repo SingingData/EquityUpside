@@ -15,8 +15,9 @@ This notebook uses Perplexity AI's Sonar Pro model via API. Each report is saved
 Refer to the 'GettingStarted' document in this repo for additional instructions
 
 #### **Features**
-- Batch Processing: Processes multiple stocks, ETF's and mutual funds from a simple text file list of tickers. 
-- Smart Skipping: Avoids duplicate API calls by checking for existing reports2. 5-year price performance vs. NASDAQ
+- Automate download of relevant SEC filings and LLM analysis with select sources.
+- Batch Processing: Processes multiple stocks, ETF's and mutual funds from a simple text file list of tickers and produces finished report for each.
+- Smart Skipping: Avoids duplicate API calls by checking for existing reports for current day. 
 - Markdown Formatting: Converts AI-generated markdown to professional Word formatting1. Stock ticker and generation date
 - Comprehensive Analysis: Includes price performance charts, financial metrics, and analyst ratingsEach report includes:
 - Date Stamping: Automatically timestamps each report## Output Format
