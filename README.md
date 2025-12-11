@@ -1,5 +1,5 @@
 # EquityUpside
-# Stock Analysis Report Generator
+### Equity Analysis Report Generator
 
 <small>
 
