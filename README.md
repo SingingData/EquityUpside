@@ -36,5 +36,6 @@ Refer to the 'GettingStarted' document in this repo for additional instructions
 
 #### **Repository**
 Feel free to clone, contribute to or fork the repository which has MIT license.
-Caveat - this is a quick V1
+
+This is a simple tool that allows me to be more informed and less capricious when I make investment decisions. Not investment advice.  
 
