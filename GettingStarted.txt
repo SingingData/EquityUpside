@@ -6,9 +6,9 @@ First clone this repository locally.
 
 
 
-Preparing your local environment and .env file:
+Preparing your local environment and local .env file:
 
-1. Create a .txt file (in notepad or other text editor)
+1. Create a .txt file (in notepad or other text editor).  This will become your .env environment file saved locally.
 2. Paste the following items below into it.
 3. Change the 'yournamehere' to your user name on your PC.  
 4. If the folders listed here don't exist on your local drive, create them.
@@ -16,6 +16,9 @@ Preparing your local environment and .env file:
 6. Create your arbitrary equity_list.txt.  This should be a list of tickers, one ticker per line.
 7. Retitle this file simply .env
 8. Save your .env within your 'analysis_scripts' folder on your local drive.
+
+
+# What to put in your .env file:
 
 # Perplexity API Key
 PERPLEXITY_API_KEY=yourperplexityapikeyhere
