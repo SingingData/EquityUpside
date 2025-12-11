@@ -28,10 +28,10 @@ Step 5:
 Preparing your local environment and local .env file:
 
 1. Create a .txt file (in notepad or other text editor).  This will become your .env environment file saved locally.
-2. Paste the following items below into it.
-3. Change the 'yournamehere' to your user name on your PC.  
+2. Paste the following items below into it (see list below "What to put in your .env file")
+3. Change the 'yournamehere' in the folder paths below to your user name on your PC.  
 4. If the folders listed here don't exist on your local drive, create them.
-5. Copy the prompts from the 'reference prompts' folder on this repo to the folder locations identified below.  
+5. Copy the sample prompts from the 'reference prompts' folder on this repo to the folder locations identified below.  You can edit these later.
 6. Create your arbitrary equity_list.txt.  This should be a list of tickers, one ticker per line.
 7. Retitle this file simply .env
 8. Save your .env within your 'analysis_scripts' folder on your local drive.
