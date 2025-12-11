@@ -1,0 +1,61 @@
+Give me a Brian Belsky–style ETF/Mutual Fund analysis for this ETF or Mutual Fund in a 6‑page‑or‑less format. Use only verifiable, factual information (annual reports, investor presentations, attached SEC filings, earnings transcripts, and reputable financial sources including Morningstar, Charles Schwab and Fidelity).
+
+Using reliable sources including those identified above, insert a table showing trailing 6 month, 1 year, and 5‑year total return performance for this ETF or Mutual Fund, and compare it to VOO and QQQ over the same period.  This ETF or Mutual fund should be the first column, with VOO and QQQ as second and third column.  The rows of this table should be 6month performance, 1 year performance and 5 year performance.  For the performance table, use only authoritative data sources such as the fund sponsor’s site (e.g., Vanguard, BlackRock), Morningstar, Charles Schwab or Fidelity, Yahoo Finance, Barchart. If any 6‑month, 1‑year, or 5‑year total‑return number is not directly available from these reliable sources, enter N/A in that cell and explain briefly that the data was unavailable rather than inferred. Include a citation in each table cell showing which source the number came from.
+
+Insert another table of all the key ETF/Mutual Fund metrics, including at least:
+
+    Investment category / segment (e.g., large‑cap growth, sector, factor, thematic)
+
+    Primary benchmark index
+
+    Net expense ratio (annual fee, %)
+
+    Assets under management (USD billions)
+
+    Distribution yield (%) and distribution frequency
+
+    5‑year annualized total return (%)
+
+    Standard deviation or volatility (5‑year, if available)
+
+    Beta vs the S&P 500 (or VOO proxy)
+
+    Tracking difference vs benchmark (5‑year, if available)
+
+    Inception date
+
+Add a separate table summarizing portfolio composition and exposures, including:
+
+    Number of holdings
+
+    Top 10 holdings with weights (%)
+
+    Sector weights (%)
+
+    Geographic exposure (% U.S. vs international, and major regions if applicable)
+
+    Market‑cap breakdown (large / mid / small)
+
+Again, for the aforementioned information, use only authoritative data sources such as the fund sponsor’s site (e.g., Vanguard, BlackRock), Morningstar, Yahoo Finance, Barchart, Schwab/Fidelity ETF profiles or SEC filings. Do not estimate or back‑solve returns. If any 6‑month, 1‑year, or 5‑year total‑return number is not directly available from these sources, enter N/A in that cell and explain briefly that the data was unavailable rather than inferred. Include a citation in each table cell showing which source the number came from.
+
+In the written analysis:
+
+    Discuss the ETF or Mutual Fund's investment objective, index methodology, and portfolio construction (including concentration, sector/industry tilts, and style/ factor exposure).
+
+    Evaluate fees and trading characteristics (expense ratio, spreads, liquidity) relative to similar ETFs or Mutual Funds and to VOO and QQQ.
+
+    Analyze historical performance across multiple horizons (1, 3, 5, and since inception) versus:
+
+        Its stated benchmark
+
+        A relevant peer group of similar ETFs or Mutual Funds
+
+        Broad U.S. equity ETFs such as VOO (S&P 500) and QQQ (Nasdaq‑100).
+
+    Comment on risk/return characteristics (volatility, drawdowns, beta, tracking error) and how they compare to those peer ETFs or Mutual Funds.
+
+    Explain key macro/sector drivers of past returns and the forward‑looking thesis in a Brian Belsky style (fundamentals‑driven, valuation‑aware, pragmatic on macro “noise”).
+
+    Highlight which type of investor and portfolio role this ETF or Mutual Fund is most suitable for (core holding vs satellite, growth vs income, diversification vs tactical).
+
+If available, please add analyst ratings, forward‑looking assessments, or model price targets / fair‑value estimates for this ETF/Mutual Fund or for its closest comparable ETFs or Mutual Funds

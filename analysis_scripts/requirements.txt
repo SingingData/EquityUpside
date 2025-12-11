@@ -1,0 +1,16 @@
+typing
+ipython
+numpy
+pandas
+matplotlib
+plotly
+yfinance
+python-docx
+openpyxl
+pickleshare
+beautifulsoup4
+requests
+python-dotenv
+openai
+perplexityai
+

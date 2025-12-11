@@ -1,0 +1,3 @@
+SEC individual equity docs: 10-K, 10-Q, 8-K
+SEC ETF docs: N-CSR, N-CSRS, N-PORT
+SEC Mutual Fund docs: N-CSR, N-CSRS, N-PORT
