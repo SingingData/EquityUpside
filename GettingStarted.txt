@@ -58,7 +58,7 @@ Output_dir_sec_filings=C:/Users/yournamehere/portfolio_files/SEC_filings
 Output_dir_individual_equities=C:/Users/yournamehere/portfolio_files/Individual_stock_analysis
 Output_dir_portfolio=C:/Users/yournamehere/portfolio_files/Portfolio_analysis
 
-# Other Variables
+# Other Variables for doing API pulls from the SEC dataset.
 GIT_EMAIL=myemail@yourmailservice.com
 GIT_NAME=Your Name
 User_Agent="YourName myemail@yourmailservice.com"
