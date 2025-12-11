@@ -1,0 +1,41 @@
+1. Install miniconda locally.
+
+What you need to create on your local drive:
+
+First clone this repository locally.
+
+
+
+Preparing your local environment and .env file:
+
+1. Create a .txt file (in notepad or other text editor)
+2. Paste the following items below into it.
+3. Change the 'yournamehere' to your user name on your PC.  
+4. If the folders listed here don't exist on your local drive, create them.
+5. Copy the prompts from the 'reference prompts' folder on this repo to the folder locations identified below.  
+6. Create your arbitrary equity_list.txt.  This should be a list of tickers, one ticker per line.
+7. Retitle this file simply .env
+8. Save your .env within your 'analysis_scripts' folder on your local drive.
+
+# Perplexity API Key
+PERPLEXITY_API_KEY=yourperplexityapikeyhere
+
+# Input Directory Locations 
+Portfolio_source_files_dir=C:/Users/yournamehere/portfolio_files/Input_Source_files
+Input_dir=C:/Users/yournamehere/portfolio_files/Input_Source_files/Equity_list
+Prompt_dir = C:/Users/yournamehere/portfolio_files/Input_Source_files/Prompts
+
+EQUITY_LIST_FILE=C:/Users/yournamehere/portfolio_files/Input_Source_files/Equity_List/Equity_list.txt
+PROMPT_INDIVIDUAL_EQUITY_FILE=C:/Users/yournamehere/portfolio_files/Input_Source_files/Prompts/Individual_analysis_prompt_depth.txt
+PROMPT_ETF_ANALYSIS_FILE=C:/Users/yournamehere/portfolio_files/Input_Source_files/Prompts/ETF_analysis_prompt.txt
+PROMPT_RATINGS_CHANGE_FILE=C:/Users/yournamehere/portfolio_files/Input_Source_files/Prompts/Portfolio_ratings_change_prompt.txt
+
+# Output Directory Locations
+Output_dir_sec_filings=C:/Users/yournamehere/portfolio_files/SEC_filings
+Output_dir_individual_equities=C:/Users/yournamehere/portfolio_files/Individual_stock_analysis
+Output_dir_portfolio=C:/Users/yournamehere/portfolio_files/Portfolio_analysis
+
+# Other Variables
+GIT_EMAIL=myemail@yourmailservice.com
+GIT_NAME=Your Name
+User_Agent="YourName myemail@yourmailservice.com"
