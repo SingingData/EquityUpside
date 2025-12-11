@@ -62,3 +62,7 @@ Output_dir_portfolio=C:/Users/yournamehere/portfolio_files/Portfolio_analysis
 GIT_EMAIL=myemail@yourmailservice.com
 GIT_NAME=Your Name
 User_Agent="YourName myemail@yourmailservice.com"
+
+
+Step 6:
+Load up query-perplexity-llm-stock-analysis.ipynb into your VS code or other development application and hit 'Run All'
