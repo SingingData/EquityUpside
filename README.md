@@ -1,4 +1,4 @@
-# EquityUpside
+# EquityUpside Overview
 ### Equity Analysis Report Generator
 
 <small>
