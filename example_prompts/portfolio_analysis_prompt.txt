@@ -1,0 +1,41 @@
+Give me a comprehensive portfolio analysis for this portfolio of holdings. Use only verifiable, factual information from reputable financial sources including Morningstar, Charles Schwab, Fidelity, Yahoo Finance, and Barchart.
+
+Insert a summary table of all holdings including at least:
+
+    Ticker symbol
+
+    Asset type (Individual Equity, ETF, Mutual Fund, Bond, Cash)
+
+    Sector / category
+
+    Current value (USD)
+
+    Percent of portfolio
+
+    Trailing 1-year total return (%)
+
+    Analyst consensus rating (where applicable)
+
+Provide a portfolio-level analysis covering:
+
+    1. Asset allocation summary — breakdown by asset type (equities, ETFs, fixed income, cash), sector, and geography.
+
+    2. Concentration risk — identify any single positions or sectors that represent an outsized portion of the portfolio.
+
+    3. Performance attribution — which holdings have contributed most positively and negatively to portfolio returns over the past year.
+
+    4. Risk profile — overall portfolio volatility, beta vs S&P 500, and assessment of downside risk.
+
+    5. Income analysis — total dividend/distribution income generated, yield on portfolio.
+
+    6. Correlation and diversification — assess how diversified the portfolio is and identify any redundant or highly correlated holdings.
+
+    7. Valuation — overall portfolio P/E, P/S, and whether the portfolio appears cheap, fairly valued, or expensive relative to the broad market.
+
+    8. Strengths — what is working well in the current portfolio construction.
+
+    9. Weaknesses and gaps — areas of under-exposure, over-concentration, or missing asset classes.
+
+    10. Recommendations — specific, actionable suggestions to improve diversification, risk-adjusted returns, or income generation.
+
+Where available, include forward-looking commentary on macro factors (interest rates, inflation, economic cycle) and how the current portfolio is positioned relative to those factors.
