@@ -1,16 +1,33 @@
-typing
-ipython
+# portfolio-analysis-notebook requirements
+# Install once: pip install -r requirements.txt
+
+# Core data & numerics
 numpy
 pandas
-matplotlib
-plotly
-yfinance
-python-docx
-openpyxl
-pickleshare
-beautifulsoup4
-requests
-python-dotenv
-openai
-perplexityai
 
+# HTTP & web
+requests
+
+# Environment / config
+python-dotenv
+
+# LLM — xAI Grok (OpenAI-compatible SDK)
+openai
+
+# Word document generation
+python-docx
+
+# Excel export with formatting
+openpyxl==3.1.5
+
+# Charting (matplotlib used for price charts)
+matplotlib
+
+# Plotly (available for interactive charts if needed)
+plotly
+
+# Jupyter display utilities
+ipython
+
+# Type hints (stdlib in Python 3.9+, kept for 3.7/3.8 compat)
+typing
